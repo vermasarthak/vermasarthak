@@ -20,7 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vermasarthak&icon=0&color=0)](https://visitcount.itsvg.in)
-For every repository, the snake gets 1 more green objective to consume 🥲
+🥲
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake.svg" />
