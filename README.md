@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working on:<br>Building my GitHub and learning web dev basics.<br><br>🌱 I’m currently learning:<br>HTML, CSS, JS, and Python.<br><br>🤝 I’m looking for help with:<br>Getting started with real-world projects.
+⚒️ I’m currently working on:<br>Building my GitHub and learning web dev basics.<br><br>🌱 I’m currently learning:<br>HTML, CSS, JS, and Python while exploring React.js, Node.js, and SQL to build full-stack web applications.<br><br>🤝 I’m looking for help with:<br>Getting started with real-world projects.
 
 
 ## 🌐 Socials:
