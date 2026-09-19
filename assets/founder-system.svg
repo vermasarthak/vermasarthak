@@ -8,7 +8,7 @@
     .dots { stroke: #7d8590; stroke-opacity: .75; stroke-dasharray: 2 7; }
   </style>
   <rect width="1200" height="360" rx="15" fill="#10151c"/>
-  <path d="M28 24c-9-13-28 1-12 15l12 11 12-11c16-14-3-28-12-15Z" fill="#54d98c"/>
+  <path d="M28 24c-9-13-28 1-12 15l12 11 12-11c16-14-3-28-12-15Z" fill="#b58cff"/>
   <text x="54" y="35" class="mono" font-size="17" font-weight="700" fill="#f0f6fc">sarthak@vermasarthak</text>
   <path d="M290 29H1162" stroke="#f0f6fc" stroke-opacity=".8"/>
 
