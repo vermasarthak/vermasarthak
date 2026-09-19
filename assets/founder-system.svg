@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Full-width founder terminal preview for Sarthak Verma</title>
+  <desc id="desc">A dark terminal panel with a small Sparkeefy heart and founder system information, without a duplicated profile picture.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .label { font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffb86c; }
+    .value { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #9bd0ff; }
+    .dots { stroke: #7d8590; stroke-opacity: .75; stroke-dasharray: 2 7; }
+  </style>
+  <rect width="1200" height="360" rx="15" fill="#10151c"/>
+  <path d="M28 24c-9-13-28 1-12 15l12 11 12-11c16-14-3-28-12-15Z" fill="#54d98c"/>
+  <text x="54" y="35" class="mono" font-size="17" font-weight="700" fill="#f0f6fc">sarthak@vermasarthak</text>
+  <path d="M290 29H1162" stroke="#f0f6fc" stroke-opacity=".8"/>
+
+  <text x="48" y="70" class="label">Role:</text><path d="M270 65H650" class="dots"/><text x="676" y="70" class="value">Founder &amp; CEO</text>
+  <text x="48" y="92" class="label">Company:</text><path d="M270 87H650" class="dots"/><text x="676" y="92" class="value">Sparkeefy by Withera Labs Pvt Ltd</text>
+  <text x="48" y="114" class="label">Location:</text><path d="M270 109H650" class="dots"/><text x="676" y="114" class="value">Chennai, India</text>
+  <text x="48" y="136" class="label">Uptime:</text><path d="M270 131H650" class="dots"/><text x="676" y="136" class="value">20y 7mo 12d</text>
+  <text x="48" y="158" class="label">Building:</text><path d="M270 153H650" class="dots"/><text x="676" y="158" class="value">Sparkeefy</text>
+
+  <text x="48" y="195" class="mono" font-size="15" fill="#f0f6fc">- Build environment</text>
+  <path d="M220 189H1162" stroke="#f0f6fc" stroke-opacity=".8"/>
+  <text x="48" y="224" class="label">Languages.Programming:</text><path d="M270 219H650" class="dots"/><text x="676" y="224" class="value">TypeScript, JavaScript, SQL</text>
+  <text x="48" y="246" class="label">Languages.Systems:</text><path d="M270 241H650" class="dots"/><text x="676" y="246" class="value">Node.js, Fastify, PostgreSQL, Redis</text>
+  <text x="48" y="268" class="label">Languages.Platform:</text><path d="M270 263H650" class="dots"/><text x="676" y="268" class="value">Supabase, Docker, React, Cloudflare</text>
+  <text x="48" y="290" class="label">Languages.Real:</text><path d="M270 285H650" class="dots"/><text x="676" y="290" class="value">English, Hindi, German</text>
+  <text x="48" y="312" class="label">Current.Bug:</text><path d="M270 307H650" class="dots"/><text x="676" y="312" class="value">sleep schedule</text>
+  <text x="48" y="342" class="label">Now:</text><path d="M100 337H650" class="dots"/><text x="676" y="342" class="value">building the AI that keeps your relationships alive</text>
+</svg>

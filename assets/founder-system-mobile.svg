@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 344" role="img" aria-labelledby="title desc">
+  <title id="title">Sarthak Verma founder system panel</title>
+  <desc id="desc">Sarthak Verma is Founder and CEO of Sparkeefy in Chennai, India, building the AI that keeps relationships alive.</desc>
+  <defs>
+    <style>
+      .bg { fill: #10151c; }
+      .edge { fill: none; stroke: #303943; stroke-width: 1; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .head { fill: #edf0ee; font-size: 14px; font-weight: 700; }
+      .key { fill: #f3a44b; font-size: 10px; font-weight: 700; }
+      .value { fill: #a8cef0; font-size: 10px; }
+      .muted { fill: #aeb8c3; font-size: 10px; }
+      .now { fill: #e7ebee; font-size: 10px; font-weight: 700; }
+    </style>
+  </defs>
+  <rect class="bg" width="360" height="344" rx="10"/>
+  <rect class="edge" x="0.5" y="0.5" width="359" height="343" rx="9.5"/>
+  <g class="mono">
+    <text class="head" x="20" y="31">sarthak@vermasarthak</text>
+    <circle cx="334" cy="26" r="10" fill="#4ccf92"/>
+    <path d="M334 31c-7-4-7-10-3.5-11.8 2.1-1.1 3.5.8 3.5 2.1 0-1.3 1.4-3.2 3.5-2.1C341 21 341 27 334 31Z" fill="#10151c"/>
+
+    <line class="edge" x1="20" y1="48" x2="340" y2="48"/>
+    <text class="key" x="20" y="72">Role</text><text class="value" x="111" y="72">Founder &amp; CEO</text>
+    <text class="key" x="20" y="94">Company</text><text class="value" x="111" y="94">Sparkeefy / Withera</text>
+    <text class="key" x="20" y="116">Location</text><text class="value" x="111" y="116">Chennai, India</text>
+    <text class="key" x="20" y="138">Uptime</text><text class="value" x="111" y="138">20y 7mo 12d</text>
+    <text class="key" x="20" y="160">Building</text><text class="value" x="111" y="160">Sparkeefy</text>
+
+    <line class="edge" x1="20" y1="180" x2="340" y2="180"/>
+    <text class="muted" x="20" y="204">Code      TypeScript · Node.js · SQL</text>
+    <text class="muted" x="20" y="224">Data      PostgreSQL · Redis · Supabase</text>
+    <text class="muted" x="20" y="244">Platform  Docker · React · Cloudflare</text>
+    <text class="muted" x="20" y="264">Human    English · Hindi · German</text>
+    <text class="muted" x="20" y="284">Bug      sleep schedule</text>
+
+    <line class="edge" x1="20" y1="298" x2="340" y2="298"/>
+    <text class="now" x="20" y="316">Now: building the AI that keeps</text>
+    <text class="now" x="20" y="332">your relationships alive</text>
+  </g>
+</svg>
