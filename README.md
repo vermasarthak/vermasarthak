@@ -6,6 +6,7 @@ My work is intentionally small, explicit, and tested. I care about the failure m
 
 ## Featured work
 
+- [VectorForge Lab](https://vermasarthak.github.io/vectorforge-lab/) — deployed retrieval and RAG-quality evaluation workbench
 - [signal-harbor](https://github.com/vermasarthak/signal-harbor) — local-first analytics, rollout, and experiment control plane
 - [relay-queue](https://github.com/vermasarthak/relay-queue) — retry-aware background job state
 - [prompt-guard](https://github.com/vermasarthak/prompt-guard) — explainable first-pass prompt-risk screening
