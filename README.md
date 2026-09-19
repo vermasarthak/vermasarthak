@@ -8,9 +8,9 @@
 </picture>
 
 <p>
-  <a href="mailto:founder@sparkeefy.com"><img src="./assets/contact-email.svg" width="22" height="22" alt="Email Sarthak"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="22" height="22" alt="Sarthak on LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="22" height="22" alt="Sarthak on Instagram"></a>
+  <a href="mailto:founder@sparkeefy.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="32" height="32" alt="Sarthak on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="32" height="32" alt="Sarthak on Instagram"></a>
 </p>
 
 <picture>
