@@ -28,8 +28,8 @@
     <text class="key" x="20" y="160">Building</text><text class="value" x="111" y="160">Sparkeefy</text>
 
     <line class="edge" x1="20" y1="180" x2="340" y2="180"/>
-    <text class="muted" x="20" y="204">Code      TypeScript · Node.js · SQL</text>
-    <text class="muted" x="20" y="224">Data      PostgreSQL · Redis · Supabase</text>
+    <text class="muted" x="20" y="204">Code      TypeScript · Python · Go · SQL</text>
+    <text class="muted" x="20" y="224">Backend   Node.js · Fastify · PostgreSQL · Redis</text>
     <text class="muted" x="20" y="244">Platform  Docker · React · Cloudflare</text>
     <text class="muted" x="20" y="264">Human    English · Hindi · German</text>
     <text class="muted" x="20" y="284">Bug      sleep schedule</text>
