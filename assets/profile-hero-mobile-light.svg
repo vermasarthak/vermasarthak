@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+  <title id="title">Sarthak Verma</title>
+  <desc id="desc">Founder and builder. A small three by three tic-tac-toe grid appears on the right with a single green winning diagonal.</desc>
+  <rect width="360" height="180" rx="18" fill="#f7f6f2"/>
+  <path d="M24 34H336" stroke="#1f2937" stroke-opacity=".12"/>
+  <circle cx="24" cy="34" r="4" fill="#30a46c"/>
+  <text x="24" y="80" fill="#18212f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="28" font-weight="700" letter-spacing="-.7">Sarthak Verma</text>
+  <text x="24" y="108" fill="#556070" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="600" letter-spacing=".25">FOUNDER · BUILDER</text>
+  <text x="24" y="139" fill="#556070" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13">Thoughtful products, carefully shipped.</text>
+  <g transform="translate(266 56)" fill="none" stroke="#18212f" stroke-linecap="round" stroke-width="1.7">
+    <rect width="70" height="70" rx="10" fill="#fff" stroke="#18212f" stroke-opacity=".14"/>
+    <path d="M23.33 8V62M46.67 8V62M8 23.33H62M8 46.67H62" stroke="#18212f" stroke-opacity=".22"/>
+    <path d="M14 14L19 19M19 14L14 19M36 36L41 41M41 36L36 41M51 14L56 19M56 14L51 19"/>
+    <circle cx="17" cy="38.5" r="4.3"/>
+    <circle cx="54" cy="54" r="4.3"/>
+    <path d="M13 13L57 57" stroke="#30a46c" stroke-width="2.6"/>
+  </g>
+</svg>
