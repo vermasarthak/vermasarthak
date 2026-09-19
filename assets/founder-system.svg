@@ -20,7 +20,7 @@
 
   <text x="48" y="195" class="mono" font-size="15" fill="#f0f6fc">- Build environment</text>
   <path d="M220 189H1162" stroke="#f0f6fc" stroke-opacity=".8"/>
-  <text x="48" y="224" class="label">Languages.Core:</text><path d="M270 219H650" class="dots"/><text x="676" y="224" class="value">TypeScript, Python, Go, SQL</text>
+  <text x="48" y="224" class="label">Languages.Core:</text><path d="M270 219H650" class="dots"/><text x="676" y="224" class="value">Python, Scala, Rust, TypeScript</text>
   <text x="48" y="246" class="label">Runtime.Backend:</text><path d="M270 241H650" class="dots"/><text x="676" y="246" class="value">Node.js, Fastify, PostgreSQL, Redis</text>
   <text x="48" y="268" class="label">Platform.Shipping:</text><path d="M270 263H650" class="dots"/><text x="676" y="268" class="value">Supabase, Docker, React, Cloudflare</text>
   <text x="48" y="290" class="label">Languages.Real:</text><path d="M270 285H650" class="dots"/><text x="676" y="290" class="value">English, Hindi, German</text>
