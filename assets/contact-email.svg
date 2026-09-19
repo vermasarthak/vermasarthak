@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Email">
-  <path fill="#4285F4" d="M3.8 6.1 12 12.3l8.2-6.2v11.3c0 .88-.72 1.6-1.6 1.6h-1.14V9.32L12 13.47 6.54 9.32V19H5.4c-.88 0-1.6-.72-1.6-1.6V6.1Z"/>
-  <path fill="#34A853" d="M17.46 9.32 20.2 7.25V17.4c0 .88-.72 1.6-1.6 1.6h-1.14V9.32Z"/>
-  <path fill="#FBBC04" d="M3.8 6.1 6.54 8.17V19H5.4c-.88 0-1.6-.72-1.6-1.6V6.1Z"/>
-  <path fill="#EA4335" d="M3.8 4.98c.1-.58.61-.98 1.2-.98h1.54L12 8.17 17.46 4h1.54c.59 0 1.1.4 1.2.98L12 11.2 3.8 4.98Z"/>
+  <path d="M4.5 5.5 12 11.5 15.8 8.45" fill="none" stroke="#EA4335" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.6"/>
+  <path d="M15.8 8.45 19.5 5.5" fill="none" stroke="#FBBC04" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.6"/>
+  <path d="M4.5 5.5v13.2" fill="none" stroke="#4285F4" stroke-linecap="round" stroke-width="3.6"/>
+  <path d="M19.5 5.5v13.2" fill="none" stroke="#34A853" stroke-linecap="round" stroke-width="3.6"/>
 </svg>
