@@ -20,10 +20,6 @@
   <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="32" height="32" alt="Sarthak on Instagram"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vermasarthak&amp;color=b58cff&amp;style=flat-square&amp;label=profile%20views" alt="Profile views">
-
-<sub>baseline: 396 (an in-joke)</sub>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake.svg" width="100%" alt="Sarthak's GitHub contribution graph animated as a snake.">
