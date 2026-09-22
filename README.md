@@ -7,12 +7,14 @@
   <img src="./assets/founder-system.svg" width="100%" alt="Sarthak Verma's founder system panel with Sparkeefy, founder details, technology and contact information.">
 </picture>
 
-## Featured Systems
+## Selected Systems
 
-- **[PagedServe](https://github.com/vermasarthak/pagedserve)** — Experimental LLM inference runtime with block-based KV memory management, continuous batching, prefix caching, and direct blockwise attention.
-- **[Cairn](https://github.com/vermasarthak/cairn)** — High-throughput transactional reservation engine written in Go. Guarantees atomic reservation placement, job scheduling, transactional outbox dispatching, and worker lease fencing against PostgreSQL.
-- **[Oriel](https://github.com/vermasarthak/oriel)** — Evaluation-driven AI model router. Uses Wilson lower-bound confidence gating and Thompson sampling to route structured AI requests across model providers with quality, latency, and cost constraints.
-- **[TileForge](https://github.com/vermasarthak/tileforge)** — Experimental tensor-kernel compiler with a Python frontend, typed SSA IR, and native Metal code generation.
+- **[Recall](https://github.com/vermasarthak/recall)** — Temporal entity memory for social AI and long-horizon agents.
+- **[PagedServe](https://github.com/vermasarthak/pagedserve)** — LLM inference runtime with paged KV memory and continuous batching.
+- **[Cairn](https://github.com/vermasarthak/cairn)** — Go reservation engine with atomic workflows and transactional outbox delivery.
+- **[Oriel](https://github.com/vermasarthak/oriel)** — Evaluation-driven router for structured AI work.
+- **[TileForge](https://github.com/vermasarthak/tileforge)** — Tensor-kernel compiler from Python through typed SSA to Metal.
+- **[Anvil](https://github.com/vermasarthak/anvil)** — Self-hosted, local-first autonomous coding engine.
 
 <p>
   <a href="mailto:sarthakverma0802@gmail.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
