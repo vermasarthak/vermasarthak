@@ -12,9 +12,9 @@
 - **[Recall](https://github.com/vermasarthak/recall)** — Temporal entity memory for social AI and long-horizon agents.
 - **[PagedServe](https://github.com/vermasarthak/pagedserve)** — LLM inference runtime with paged KV memory and continuous batching.
 - **[Cairn](https://github.com/vermasarthak/cairn)** — Go reservation engine with atomic workflows and transactional outbox delivery.
+- **[Relay](https://github.com/vermasarthak/relay)** — Policy-aware AI support resolution with evidence retrieval, human review, and durable execution.
 - **[Oriel](https://github.com/vermasarthak/oriel)** — Evaluation-driven router for structured AI work.
 - **[TileForge](https://github.com/vermasarthak/tileforge)** — Tensor-kernel compiler from Python through typed SSA to Metal.
-- **[Anvil](https://github.com/vermasarthak/anvil)** — Self-hosted, local-first autonomous coding engine.
 
 <p>
   <a href="mailto:sarthakverma0802@gmail.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
