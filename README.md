@@ -35,18 +35,11 @@ High-performance AI infrastructure, GPU compiler design, durable execution, and 
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="middle">
-      <a href="mailto:sarthakverma0802@gmail.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="32" height="32" alt="Sarthak on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="32" height="32" alt="Sarthak on Instagram"></a>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=vermasarthak&amp;color=b58cff&amp;style=flat-square&amp;label=profile%20views" alt="Profile views">
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="mailto:sarthakverma0802@gmail.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="32" height="32" alt="Sarthak on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="32" height="32" alt="Sarthak on Instagram"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake-dark.svg">
