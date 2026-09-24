@@ -2,46 +2,49 @@
   <img src="./assets/sparkeefy-banner.jpeg" width="100%" alt="Sparkeefy banner showing two hands reaching toward a glowing heart.">
 </a>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/founder-system-mobile.svg">
-  <img src="./assets/founder-system.svg" width="100%" alt="Sarthak Verma's founder system panel with Sparkeefy, founder details, technology and contact information.">
-</picture>
+# Sarthak Verma
 
-## Core Systems & Engineering Architecture
+Founder of Sparkeefy, building relationship intelligence that helps people remember, understand and act on the moments that matter.
 
-High-performance AI infrastructure, GPU compiler design, durable execution, and distributed systems written in Python, C/Metal, and Go:
+## Building
 
-- **[Cairn](https://github.com/vermasarthak/cairn)** — High-throughput transactional outbox & reservation engine in Go. Guarantees atomic event publishing, worker lease fencing, and distributed job scheduling against PostgreSQL/Redis. 100% test coverage.
-- **[Relay](https://github.com/vermasarthak/relay)** — Deterministic human-in-the-loop orchestration runtime. Provides state-machine approval routing, SLA escalation timers, tenant RBAC, and replayable execution. 14/14 unit tests green.
-- **[Recall](https://github.com/vermasarthak/recall)** — Temporal entity memory engine for long-horizon agents. Combines bidirectional temporal knowledge graphs, exponential recency decay, and WebSocket streaming. 31/31 unit tests green.
-- **[TileForge](https://github.com/vermasarthak/tileforge)** — Native Metal GPU Tensor Compiler. Translates high-level SSA IR into C++ Metal Shading Language (MSL) with threadgroup shared-memory tiling (`threadgroup float tileA[16][16]`), SIMD barriers, and SSA optimization passes. 67/67 unit tests green, verified hardware execution on Apple Silicon.
-- **[PagedServe](https://github.com/vermasarthak/pagedserve)** — High-throughput LLM inference runtime featuring block-based PagedAttention KV-cache management, continuous batching, prefix caching, and speculative decoding. 290/290 unit tests green.
-- **[Oriel](https://github.com/vermasarthak/oriel)** — Evaluation-driven model router & benchmark suite. Employs contextual Thompson sampling, request hedging, and Wilson score confidence bounds to dynamically route traffic across LLM endpoints under latency/cost constraints. 52/52 unit tests green.
-- **[Anvil](https://github.com/vermasarthak/anvil)** — Isolated execution engine & agent workspace with gVisor sandbox integration, LSP protocol client, and session state persistence. 13/13 unit tests green.
+### Sparkeefy
 
----
+Relationship intelligence platform designed to help people remember, understand and act on personal connections without compromising privacy boundaries.
 
-### Verification & CI Quality Matrix
+## Flagship engineering
 
-| Repository | Domain | Core Tech | Test Suite Status | CI Workflow |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Cairn](https://github.com/vermasarthak/cairn)** | Transactional Outbox | Go 1.22 / PostgreSQL | ✅ 100% Passed | GitHub Actions |
-| **[Relay](https://github.com/vermasarthak/relay)** | Human-in-the-Loop Orchestration | FastAPI / SQLite / Alembic | ✅ 14/14 Passed | GitHub Actions |
-| **[Recall](https://github.com/vermasarthak/recall)** | Temporal Memory Engine | FastAPI / SQLite WAL / Pydantic | ✅ 31/31 Passed | GitHub Actions |
-| **[TileForge](https://github.com/vermasarthak/tileforge)** | GPU Compiler & IR | C++ Metal MSL / Python SSA | ✅ 67/67 Passed | GitHub Actions |
-| **[PagedServe](https://github.com/vermasarthak/pagedserve)** | LLM Inference & KV Cache | PagedAttention / PyTorch | ✅ 290/290 Passed | GitHub Actions |
-| **[Oriel](https://github.com/vermasarthak/oriel)** | Model Router & Evals | Thompson Sampling / FastAPI | ✅ 52/52 Passed | GitHub Actions |
-| **[Anvil](https://github.com/vermasarthak/anvil)** | Agent Execution & LSP | gVisor / SQLite / Python | ✅ 13/13 Passed | GitHub Actions |
+### LongArc
 
----
+Open, reproducible benchmark for temporal memory, privacy boundaries and safe proactivity in long-horizon AI agents.
+
+- 1,200 synthetic scored queries across 300 scenarios
+- Deterministic offline reproduction (`make reproduce`) without API keys
+- Point-in-time retrieval, consent revocation, and cross-person leakage evaluation
+- Public scoring methodology with strict closed-fail evaluation
+
+### Cairn
+
+Experimental Go/Postgres reference for policy-controlled action delivery, transactional reservations, outbox persistence and lease-fenced execution.
+
+## Selected systems
+
+- **[TileForge](https://github.com/vermasarthak/tileforge)** — Experimental tensor compiler with typed SSA IR, optimization passes, semantics preservation proofs, and Metal lowering.
+- **[Oriel](https://github.com/vermasarthak/oriel)** — Evaluation-driven model router using Thompson sampling and Wilson confidence bounds under SLA/cost constraints.
+- **[Recall](https://github.com/vermasarthak/recall)** — Bitemporal entity and fact memory for long-horizon agents with point-in-time retrieval.
+- **[PagedServe](https://github.com/vermasarthak/pagedserve)** — Experimental LLM-serving systems reference with paged memory management, continuous batching, and tensor-partitioning simulations.
+
+## Engineering approach
+
+- explicit failure semantics;
+- reproducible evaluation;
+- privacy-conscious AI;
+- deterministic tests;
+- honest experimental boundaries.
+
+## Contact
 
 <p>
   <a href="mailto:sarthakverma0802@gmail.com"><img src="./assets/contact-email.svg" width="32" height="32" alt="Email Sarthak"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="32" height="32" alt="Sarthak on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sarthk_._/"><img src="./assets/contact-instagram.svg" width="32" height="32" alt="Sarthak on Instagram"></a>
+  <a href="https://www.linkedin.com/in/sarthakvermaa/"><img src="./assets/contact-linkedin.svg" width="32" height="32" alt="Sarthak on LinkedIn"></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/vermasarthak/vermasarthak/output/github-snake.svg" width="100%" alt="Sarthak's GitHub contribution graph animated as a snake.">
-</picture>
